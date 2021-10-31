@@ -1,0 +1,14 @@
+{"name":"Gracze","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#3cb819","flags":{"textColour":""},"_id":"4RDzWcoJd9YYjxvN"}
+{"name":"Nonmagical","type":"Item","parent":"LyjkN2NT3fjtMhQx","sorting":"a","sort":0,"color":"#ff1a9f","flags":{"textColour":"#000000"},"_id":"5NxTwvDcRGcraMZa"}
+{"_id":"8SPjUvbPrhwayCUI","name":"Cantrips","type":"Item","parent":"f96Xss282ESvGj03","sorting":"a","sort":0,"color":"#e36868","flags":{"textColour":"#000000"}}
+{"name":"VIP","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#ff6f00","flags":{"textColour":"#343427"},"_id":"CKj3ppVsnzWBVB4A"}
+{"_id":"F9XDbm7W5ZCq5YZz","name":"Karczma","type":"Actor","parent":null,"sorting":"a","sort":500000,"color":"#fcd303","flags":{"textColour":"#000000"}}
+{"name":"Klasy","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#d175ea","flags":{"textColour":"#000000"},"_id":"La31cliIzJeBwWlR"}
+{"_id":"LyjkN2NT3fjtMhQx","name":"Drinks","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#7828f0","flags":{"textColour":"#000000"}}
+{"name":"Spells: Tavern","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#db995c","flags":{"textColour":"#000000"},"_id":"N8lmceoZ2na95Y4L"}
+{"_id":"U6VZv3Q9vL1Q3zwP","name":"Postacie Fabularne","type":"Actor","parent":null,"sorting":"a","sort":700000,"color":"#2c67f2","flags":{"textColour":"#000000"}}
+{"_id":"VqEIpx0aRyprQKXu","name":"Magic Items: Tavern","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#ed8002","flags":{"textColour":"#121212"}}
+{"_id":"f96Xss282ESvGj03","name":"Spells: Base Game","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#1dc959","flags":{"textColour":"#000000"}}
+{"_id":"t6tqGPC5fnMyxRXW","name":"Potwory","type":"Actor","parent":null,"sorting":"a","sort":600000,"color":"#9518d8","flags":{"textColour":""}}
+{"name":"Taverns","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#daa410","flags":{"textColour":""},"_id":"vAtD5P9Yez2cdabu"}
+{"name":"Magical","type":"Item","parent":"LyjkN2NT3fjtMhQx","sorting":"a","sort":0,"color":"#008ebd","flags":{"textColour":""},"_id":"xvK4SQOIt7zyNZuo"}

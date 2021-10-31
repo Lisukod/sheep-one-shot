@@ -1,0 +1,171 @@
+{
+  "name": "sheep-one-shot",
+  "title": "Lambshot",
+  "description": "<p>Drużyna czwarto poziomowych bohaterów odpoczywa w karczmie bo zakończonej misji wydając zarobiony grosz i rozmyślając o wytyczeniu następnej przygodzie.</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-sheep-one-shot-spells",
+      "package": "world",
+      "path": "packs/ddb-sheep-one-shot-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\ddb-sheep-one-shot-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-sheep-one-shot-items",
+      "package": "world",
+      "path": "packs/ddb-sheep-one-shot-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\ddb-sheep-one-shot-items.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-sheep-one-shot-class-features",
+      "package": "world",
+      "path": "packs/ddb-sheep-one-shot-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\ddb-sheep-one-shot-class-features.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-sheep-one-shot-classes",
+      "package": "world",
+      "path": "packs/ddb-sheep-one-shot-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\ddb-sheep-one-shot-classes.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-sheep-one-shot-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-sheep-one-shot-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\ddb-sheep-one-shot-racial-traits.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-sheep-one-shot-feats",
+      "package": "world",
+      "path": "packs/ddb-sheep-one-shot-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\ddb-sheep-one-shot-feats.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-sheep-one-shot-races",
+      "package": "world",
+      "path": "packs/ddb-sheep-one-shot-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\ddb-sheep-one-shot-races.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-sheep-one-shot-monsters",
+      "package": "world",
+      "path": "packs/ddb-sheep-one-shot-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\ddb-sheep-one-shot-monsters.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Override",
+      "name": "ddb-sheep-one-shot-override",
+      "package": "world",
+      "path": "packs/ddb-sheep-one-shot-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\ddb-sheep-one-shot-override.db"
+    },
+    {
+      "entity": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-sheep-one-shot-tables",
+      "package": "world",
+      "path": "packs/ddb-sheep-one-shot-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\ddb-sheep-one-shot-tables.db"
+    },
+    {
+      "label": "Spells: Taverns & Tankards",
+      "entity": "Item",
+      "name": "spells-taverns-and-tankards",
+      "path": "packs/spells-taverns-and-tankards.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\spells-taverns-and-tankards.db"
+    },
+    {
+      "label": "Magic Items: Taverns & Tankards",
+      "entity": "Item",
+      "name": "magic-items-taverns-and-tankards",
+      "path": "packs/magic-items-taverns-and-tankards.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\magic-items-taverns-and-tankards.db"
+    },
+    {
+      "label": "Magical Drinks: Taverns & Tankards",
+      "entity": "Item",
+      "name": "magical-drinks-taverns-and-tankards",
+      "path": "packs/magical-drinks-taverns-and-tankards.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Krzysztof\\AppData\\Local\\FoundryVTT\\Data\\worlds\\sheep-one-shot\\packs\\magical-drinks-taverns-and-tankards.db"
+    },
+    {
+      "label": "Drinks: Taverns & Tankards",
+      "entity": "Item",
+      "name": "drinks-taverns-and-tankards",
+      "path": "packs/drinks-taverns-and-tankards.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false
+    },
+    {
+      "label": "Races And Subraces",
+      "entity": "Item",
+      "name": "races-and-subraces",
+      "path": "packs/races-and-subraces.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.9",
+  "nextSession": "2021-10-03T17:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.3"
+}
